@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div class=""></div>
+    <div class="text-black">
+        Hi Ari Apa Kabar
+    </div>
 </body>
 </html>
